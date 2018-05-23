@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.btn {
+    font-size: 12px;
+    line-height: 1.0;
+    letter-spacing: 1.1px;
+    border-radius: 100px;
+    min-height: 40px;
+    transition: background-color 250ms linear;
+}
+
+.my-button {
+  width: auto; 
+  width: 230px; 
+  margin-top: 0px; 
+}
+
+.btn-red {
+    color: #fff;
+    background-color: #e82429;
+    font-size: 12px;
+    line-height: 1.0;
+    letter-spacing: 1.1px;
+    border-radius: 100px;
+    min-width: 126px;
+    min-height: 40px;
+    transition: background-color 250ms linear;
+}
